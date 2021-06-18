@@ -19,6 +19,14 @@ webpack을 통해 optimization을 거치면서 uglify 되어 코드를 읽기 �
  
  또한 backend와 연동하여 자신의 게시글을 모아보거나 닉네임, 유저 프로필 사진을 변경할 수 있습니다.
  
+ ### AUTH
+ ---
+ OAuth를 통해 SNS 로그인을 지원합니다. 
+ - Google
+ - GitHub
+
+ - 계정 생성
+ email과 password를 입력하여 새로운 계정을 생성할 수 있습니다.
  
  ### HOME
  ---
