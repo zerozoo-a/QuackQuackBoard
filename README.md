@@ -6,7 +6,9 @@
 webpack을 통해 optimization을 거치면서 uglify 되어 코드를 읽기 난해합니다. 
 따라서 코드를 보고 싶으시다면 아래의 링크를 클릭해 이동해주시길 바랍니다.
 
-[zerozoo-front/myBoard](https://github.com/zerozoo-front/myBoard)
+[zerozoo-front/myBoard repository로 이동하기](https://github.com/zerozoo-front/myBoard)
+
+[Quack Quack Board로 이동하기](https://zerozoo-front.github.io/QuackQuackBoard/#/)
 
 ---
 
